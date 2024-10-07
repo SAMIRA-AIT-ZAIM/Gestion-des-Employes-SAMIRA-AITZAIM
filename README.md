@@ -26,6 +26,10 @@ Importer le projet dans votre IDE.
 Exécuter la classe Entreprise pour créer les employés et afficher les informations.
 https://github.com/user-attachments/assets/0b541c58-3f42-4ec0-8381-9921365b56c5
 
+https://github.com/user-attachments/assets/285ee4a9-7699-47a8-a02d-34c7e3d2c013
+
+
+
 
 
  
