@@ -25,7 +25,6 @@ Configurer le fichier base.properties avec les informations de connexion à votr
 Importer le projet dans votre IDE.
 Exécuter la classe Entreprise pour créer les employés et afficher les informations.
 https://github.com/user-attachments/assets/0b541c58-3f42-4ec0-8381-9921365b56c5
-https://github.com/user-attachments/assets/510e07f7-8189-45ee-a6ef-0805dce9a6b7
 
 
 
