@@ -24,4 +24,7 @@ Installation et utilisation
 Configurer le fichier base.properties avec les informations de connexion à votre base de données MySQL.
 Importer le projet dans votre IDE.
 Exécuter la classe Entreprise pour créer les employés et afficher les informations.
+https://github.com/user-attachments/assets/0b541c58-3f42-4ec0-8381-9921365b56c5
+
+
  
